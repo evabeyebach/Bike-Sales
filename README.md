@@ -1,4 +1,4 @@
-## Bike-Sales/ Obesity/ CO2 Emision Analysis
+## Bike-Sales/ Obesity/ CO2 Emission Analysis
 
 ### Introduction
 
