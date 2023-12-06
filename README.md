@@ -10,7 +10,6 @@ The following questions will be addressed by creating and analyzing data using v
 and graphs:
 * Are bike sales and uses correlated to obesity trends?
 * Are carbon emissions tied to bike sales volumes?
-* Are bike sales more affected by the average user or by athletes?
 * What months/quarters average the highest sales volume?
 * What geographic locations have the most sales?
 * What demographics make up most of the bike sales?
