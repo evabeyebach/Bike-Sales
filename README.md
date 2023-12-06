@@ -4,6 +4,20 @@
 
 I have analyzed __International Bikes Sales__ Data to help the company improve their sales and revenue. As well I wanted to analyze wether there was a correlation with bike sales and __obesity and CO2 Emisions__ around the world.
 
+### Objectives
+
+The following questions will be addressed by creating and analyzing data using visualization charts
+and graphs:
+* Are bike sales and uses correlated to obesity trends?
+* Are carbon emissions tied to bike sales volumes?
+* Are bike sales more affected by the average user or by athletes?
+* What months/quarters average the highest sales volume?
+* What geographic locations have the most sales?
+* What demographics make up most of the bike sales?
+* Overall benefits and safety risks of using a bicycle
+
+
+
 ### Data Extraction & Analysis
 
 I have used data from different websites such as __Kaggle__ and __Data Worldbank.__
